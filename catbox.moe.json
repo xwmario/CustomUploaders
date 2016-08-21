@@ -1,9 +1,10 @@
-﻿{
+{
   "Name": "catbox.moe",
   "RequestType": "POST",
-  "RequestURL": "http://catbox.moe/user/api.php",
+  "RequestURL": "https://catbox.moe/user/api.php",
   "FileFormName": "fileToUpload",
   "Arguments": {
+    "userhash": "24d975b3e6a673ab12a7c86ad",
     "reqtype": "fileupload"
   },
   "ResponseType": "Text"
